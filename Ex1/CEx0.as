@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.Event;	//import flash.events.*;			public class CEx0 extends MovieClip {				public function CEx0() {			// constructor code						for (var i=0; i < 100; i++) {				var b = new CBola();				addChild(b);			}					}	}	}
